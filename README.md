@@ -13,4 +13,6 @@ This is Nick Tom's GitHub Portfoilio.
 
 * Direct Sales
 * Sales Management
+* Account Management
+* New Business Development
 * Hiring and Sales Training
